@@ -1,0 +1,263 @@
+Continent_Name,Country_Name,Two_Letter_Country_Code
+Asia,Afghanistan,AF
+Europe,Albania,AL
+Antarctica,Antarctica ,AQ
+Africa,Algeria,DZ
+Oceania,American Samoa,AS
+Europe,Andorra,AD
+Africa,"Angola, Republic of",AO
+North America,Antigua and Barbuda,AG
+Europe,"Azerbaijan, Republic of",AZ
+Asia,"Azerbaijan, Republic of",AZ
+South America,"Argentina, Argentine Republic",AR
+Oceania,"Australia, Commonwealth of",AU
+Europe,"Austria, Republic of",AT
+North America,"Bahamas, Commonwealth of the",BS
+Asia,"Bahrain, Kingdom of",BH
+Asia,"Bangladesh, People's Republic of",BD
+Europe,"Armenia, Republic of",AM
+Asia,"Armenia, Republic of",AM
+North America,Barbados,BB
+Europe,"Belgium, Kingdom of",BE
+North America,Bermuda,BM
+Asia,"Bhutan, Kingdom of",BT
+South America,"Bolivia, Republic of",BO
+Europe,Bosnia and Herzegovina,BA
+Africa,"Botswana, Republic of",BW
+Antarctica,Bouvet Island (Bouvetoya),BV
+South America,"Brazil, Federative Republic of",BR
+North America,Belize,BZ
+Asia,British Indian Ocean Territory (Chagos Archipelago),IO
+Oceania,Solomon Islands,SB
+North America,British Virgin Islands,VG
+Asia,Brunei Darussalam,BN
+Europe,"Bulgaria, Republic of",BG
+Asia,"Myanmar, Union of",MM
+Africa,"Burundi, Republic of",BI
+Europe,"Belarus, Republic of",BY
+Asia,"Cambodia, Kingdom of",KH
+Africa,"Cameroon, Republic of",CM
+North America,Canada,CA
+Africa,"Cape Verde, Republic of",CV
+North America,Cayman Islands,KY
+Africa,Central African Republic,CF
+Asia,"Sri Lanka, Democratic Socialist Republic of",LK
+Africa,"Chad, Republic of",TD
+South America,"Chile, Republic of",CL
+Asia,"China, People's Republic of",CN
+Asia,Taiwan,TW
+Asia,Christmas Island,CX
+Asia,Cocos (Keeling) Islands,CC
+South America,"Colombia, Republic of",CO
+Africa,"Comoros, Union of the",KM
+Africa,Mayotte,YT
+Africa,"Congo, Republic of the",CG
+Africa,"Congo, Democratic Republic of the",CD
+Oceania,Cook Islands,CK
+North America,"Costa Rica, Republic of",CR
+Europe,"Croatia, Republic of",HR
+North America,"Cuba, Republic of",CU
+Europe,"Cyprus, Republic of",CY
+Asia,"Cyprus, Republic of",CY
+Europe,Czech Republic,CZ
+Africa,"Benin, Republic of",BJ
+Europe,"Denmark, Kingdom of",DK
+North America,"Dominica, Commonwealth of",DM
+North America,Dominican Republic,DO
+South America,"Ecuador, Republic of",EC
+North America,"El Salvador, Republic of",SV
+Africa,"Equatorial Guinea, Republic of",GQ
+Africa,"Ethiopia, Federal Democratic Republic of",ET
+Africa,"Eritrea, State of",ER
+Europe,"Estonia, Republic of",EE
+Europe,Faroe Islands,FO
+South America,Falkland Islands (Malvinas),FK
+Antarctica,South Georgia and the South Sandwich Islands,GS
+Oceania,"Fiji, Republic of the Fiji Islands",FJ
+Europe,"Finland, Republic of",FI
+Europe,Åland Islands,AX
+Europe,"France, French Republic",FR
+South America,French Guiana,GF
+Oceania,French Polynesia,PF
+Antarctica,French Southern Territories,TF
+Africa,"Djibouti, Republic of",DJ
+Africa,"Gabon, Gabonese Republic",GA
+Europe,Georgia,GE
+Asia,Georgia,GE
+Africa,"Gambia, Republic of the",GM
+Asia,"Palestinian Territory, Occupied",PS
+Europe,"Germany, Federal Republic of",DE
+Africa,"Ghana, Republic of",GH
+Europe,Gibraltar,GI
+Oceania,"Kiribati, Republic of",KI
+Europe,"Greece, Hellenic Republic",GR
+North America,Greenland,GL
+North America,Grenada,GD
+North America,Guadeloupe,GP
+Oceania,Guam,GU
+North America,"Guatemala, Republic of",GT
+Africa,"Guinea, Republic of",GN
+South America,"Guyana, Co-operative Republic of",GY
+North America,"Haiti, Republic of",HT
+Antarctica,Heard Island and McDonald Islands,HM
+Europe,Holy See (Vatican City State),VA
+North America,"Honduras, Republic of",HN
+Asia,"Hong Kong, Special Administrative Region of China",HK
+Europe,"Hungary, Republic of",HU
+Europe,"Iceland, Republic of",IS
+Asia,"India, Republic of",IN
+Asia,"Indonesia, Republic of",ID
+Asia,"Iran, Islamic Republic of",IR
+Asia,"Iraq, Republic of",IQ
+Europe,Ireland,IE
+Asia,"Israel, State of",IL
+Europe,"Italy, Italian Republic",IT
+Africa,"Cote d'Ivoire, Republic of",CI
+North America,Jamaica,JM
+Asia,Japan,JP
+Europe,"Kazakhstan, Republic of",KZ
+Asia,"Kazakhstan, Republic of",KZ
+Asia,"Jordan, Hashemite Kingdom of",JO
+Africa,"Kenya, Republic of",KE
+Asia,"Korea, Democratic People's Republic of",KP
+Asia,"Korea, Republic of",KR
+Asia,"Kuwait, State of",KW
+Asia,Kyrgyz Republic,KG
+Asia,Lao People's Democratic Republic,LA
+Asia,"Lebanon, Lebanese Republic",LB
+Africa,"Lesotho, Kingdom of",LS
+Europe,"Latvia, Republic of",LV
+Africa,"Liberia, Republic of",LR
+Africa,Libyan Arab Jamahiriya,LY
+Europe,"Liechtenstein, Principality of",LI
+Europe,"Lithuania, Republic of",LT
+Europe,"Luxembourg, Grand Duchy of",LU
+Asia,"Macao, Special Administrative Region of China",MO
+Africa,"Madagascar, Republic of",MG
+Africa,"Malawi, Republic of",MW
+Asia,Malaysia,MY
+Asia,"Maldives, Republic of",MV
+Africa,"Mali, Republic of",ML
+Europe,"Malta, Republic of",MT
+North America,Martinique,MQ
+Africa,"Mauritania, Islamic Republic of",MR
+Africa,"Mauritius, Republic of",MU
+North America,"Mexico, United Mexican States",MX
+Europe,"Monaco, Principality of",MC
+Asia,Mongolia,MN
+Europe,"Moldova, Republic of",MD
+Europe,"Montenegro, Republic of",ME
+North America,Montserrat,MS
+Africa,"Morocco, Kingdom of",MA
+Africa,"Mozambique, Republic of",MZ
+Asia,"Oman, Sultanate of",OM
+Africa,"Namibia, Republic of",NA
+Oceania,"Nauru, Republic of",NR
+Asia,"Nepal, State of",NP
+Europe,"Netherlands, Kingdom of the",NL
+North America,Netherlands Antilles,AN
+North America,Curaçao,CW
+North America,Aruba,AW
+North America,Sint Maarten (Netherlands),SX
+North America,"Bonaire, Sint Eustatius and Saba",BQ
+Oceania,New Caledonia,NC
+Oceania,"Vanuatu, Republic of",VU
+Oceania,New Zealand,NZ
+North America,"Nicaragua, Republic of",NI
+Africa,"Niger, Republic of",NE
+Africa,"Nigeria, Federal Republic of",NG
+Oceania,Niue,NU
+Oceania,Norfolk Island,NF
+Europe,"Norway, Kingdom of",NO
+Oceania,"Northern Mariana Islands, Commonwealth of the",MP
+Oceania,United States Minor Outlying Islands,UM
+North America,United States Minor Outlying Islands,UM
+Oceania,"Micronesia, Federated States of",FM
+Oceania,"Marshall Islands, Republic of the",MH
+Oceania,"Palau, Republic of",PW
+Asia,"Pakistan, Islamic Republic of",PK
+North America,"Panama, Republic of",PA
+Oceania,"Papua New Guinea, Independent State of",PG
+South America,"Paraguay, Republic of",PY
+South America,"Peru, Republic of",PE
+Asia,"Philippines, Republic of the",PH
+Oceania,Pitcairn Islands,PN
+Europe,"Poland, Republic of",PL
+Europe,"Portugal, Portuguese Republic",PT
+Africa,"Guinea-Bissau, Republic of",GW
+Asia,"Timor-Leste, Democratic Republic of",TL
+North America,"Puerto Rico, Commonwealth of",PR
+Asia,"Qatar, State of",QA
+Africa,Reunion,RE
+Europe,Romania,RO
+Europe,Russian Federation,RU
+Asia,Russian Federation,RU
+Africa,"Rwanda, Republic of",RW
+North America,Saint Barthelemy,BL
+Africa,Saint Helena,SH
+North America,"Saint Kitts and Nevis, Federation of",KN
+North America,Anguilla,AI
+North America,Saint Lucia,LC
+North America,Saint Martin,MF
+North America,Saint Pierre and Miquelon,PM
+North America,Saint Vincent and the Grenadines,VC
+Europe,"San Marino, Republic of",SM
+Africa,"Sao Tome and Principe, Democratic Republic of",ST
+Asia,"Saudi Arabia, Kingdom of",SA
+Africa,"Senegal, Republic of",SN
+Europe,"Serbia, Republic of",RS
+Africa,"Seychelles, Republic of",SC
+Africa,"Sierra Leone, Republic of",SL
+Asia,"Singapore, Republic of",SG
+Europe,Slovakia (Slovak Republic),SK
+Asia,"Vietnam, Socialist Republic of",VN
+Europe,"Slovenia, Republic of",SI
+Africa,"Somalia, Somali Republic",SO
+Africa,"South Africa, Republic of",ZA
+Africa,"Zimbabwe, Republic of",ZW
+Europe,"Spain, Kingdom of",ES
+Africa,South Sudan,SS
+Africa,Western Sahara,EH
+Africa,"Sudan, Republic of",SD
+South America,"Suriname, Republic of",SR
+Europe,Svalbard & Jan Mayen Islands,SJ
+Africa,"Swaziland, Kingdom of",SZ
+Europe,"Sweden, Kingdom of",SE
+Europe,"Switzerland, Swiss Confederation",CH
+Asia,Syrian Arab Republic,SY
+Asia,"Tajikistan, Republic of",TJ
+Asia,"Thailand, Kingdom of",TH
+Africa,"Togo, Togolese Republic",TG
+Oceania,Tokelau,TK
+Oceania,"Tonga, Kingdom of",TO
+North America,"Trinidad and Tobago, Republic of",TT
+Asia,United Arab Emirates,AE
+Africa,"Tunisia, Tunisian Republic",TN
+Europe,"Turkey, Republic of",TR
+Asia,"Turkey, Republic of",TR
+Asia,Turkmenistan,TM
+North America,Turks and Caicos Islands,TC
+Oceania,Tuvalu,TV
+Africa,"Uganda, Republic of",UG
+Europe,Ukraine,UA
+Europe,"Macedonia, The Former Yugoslav Republic of",MK
+Africa,"Egypt, Arab Republic of",EG
+Europe,United Kingdom,GB
+Europe,"Guernsey, Bailiwick of",GG
+Europe,"Jersey, Bailiwick of",JE
+Europe,Isle of Man,IM
+Africa,"Tanzania, United Republic of",TZ
+North America,United States of America,US
+North America,United States Virgin Islands,VI
+Africa,Burkina Faso,BF
+South America,"Uruguay, Eastern Republic of",UY
+Asia,"Uzbekistan, Republic of",UZ
+South America,"Venezuela, Bolivarian Republic of",VE
+Oceania,Wallis and Futuna,WF
+Oceania,"Samoa, Independent State of",WS
+Asia,Yemen,YE
+Africa,"Zambia, Republic of",ZM
+Oceania,Disputed Territory,XX
+Asia,Iraq-Saudi Arabia Neutral Zone,XE
+Asia,United Nations Neutral Zone,XD
+Asia,Spratly Islands,XS
