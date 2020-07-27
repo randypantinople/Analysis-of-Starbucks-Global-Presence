@@ -1,0 +1,249 @@
+﻿code3,country,coffee_consumption
+AND,Andorra,2
+AUT,Austria,1117
+BEL,Belgium,934
+CHE,Switzerland,1035
+DEU,Germany,9460
+FRA,France,5962
+LIE,Liechtenstein,5
+LUX,Luxembourg,214
+MCO,Monaco,5
+NLD,Netherlands,1571
+ALD,Aland,
+DNK,Denmark,762
+EST,Estonia,67
+FIN,Finland,1093
+FRO,Faroe Islands,
+GBR,United Kingdom,2925
+GGY,Guernsey,
+GRL,Greenland,6
+IMN,Isle of Man,
+IRL,Ireland,179
+ISL,Iceland,42
+JEY,Jersey,
+LTU,Lithuania,180
+LVA,Latvia,101
+NOR,Norway,789
+SWE,Sweden,1125
+BGR,Bulgaria,360
+BLR,Belarus,153
+CZE,Czech Republic,572
+HUN,Hungary,180
+MDA,Moldova,111
+POL,Poland,2034
+ROU,Romania,802
+SVK,Slovakia,388
+UKR,Ukraine,1324
+ALB,Albania,101
+BIH,Bosnia and Herzegovina,357
+CYP,Cyprus,81
+ESP,Spain,3147
+GIB,Gibraltar,
+GRC,Greece,1023
+HRV,Croatia,367
+ITA,Italy,5689
+KOS,Kosovo,
+MKD,Macedonia,101
+MLT,Malta,21
+MNE,Montenegro,21
+PRT,Portugal,834
+SMR,San Marino,1
+SRB,Serbia,545
+SVN,Slovenia,208
+VAT,Vatican,1
+BEN,Benin,3
+BFA,Burkina Faso,11
+CIV,Ivory Coast,317
+CPV,Cape Verde,8
+GHA,Ghana,2
+GIN,Guinea,50
+GMB,The Gambia,14
+GNB,Guinea Bissau,5
+LBR,Liberia,5
+MLI,Mali,31
+MRT,Mauritania,9
+NER,Niger,11
+NGA,Nigeria,41
+SEN,Senegal,11
+SLE,Sierra Leone,5
+TGO,Togo,4
+DZA,Algeria,1789
+EGY,Egypt,67
+LBY,Libya,121
+MAR,Morocco,464
+SAH,Western Sahara,1
+SDN,Sudan,71
+TUN,Tunisia,340
+BDI,Burundi,2
+COM,Comoros,7
+DJI,Djibouti,41
+ERI,Eritrea,71
+ETH,Ethiopia,3383
+FRA,Réunion,41
+FRA,Mayotte,1
+KEN,Kenya,50
+MDG,Madagascar,467
+MOZ,Mozambique,161
+MUS,Mauritius,11
+MWI,Malawi,1
+RWA,Rwanda,1
+SDS,South Sudan,11
+SOM,Somalia,6
+SYC,Seychelles,2
+TZA,Tanzania,47
+UGA,Uganda,140
+ZMB,Zambia,1
+ZWE,Zimbabwe,4
+ATF,French Southern and Antarctic Lands,
+BWA,Botswana,31
+HMD,Heard Island and McDonald Islands,
+LSO,Lesotho,6
+NAM,Namibia,21
+SHN,Saint Helena,
+SWZ,Swaziland,5
+ZAF,South Africa,538
+AGO,Angola,30
+CAF,Central African Republic,9
+CMR,Cameroon,69
+COD,Democratic Republic of the Congo,200
+COG,Republic of Congo,3
+GAB,Gabon,0
+GNQ,Equatorial Guinea,2
+STP,Sao Tome and Principe,1
+TCD,Chad,21
+ARE,United Arab Emirates,283
+ARM,Armenia,91
+AZE,Azerbaijan,61
+BHR,Bahrain,61
+GEO,Georgia,101
+IOT,British Indian Ocean Territory,
+IRQ,Iraq,491
+ISR,Israel,439
+JOR,Jordan,268
+KWT,Kuwait,141
+LBN,Lebanon,407
+OMN,Oman,51
+PSX,Palestine,17
+QAT,Qatar,51
+SAU,Saudi Arabia,1401
+SYR,Syria,291
+TUR,Turkey,633
+YEM,Yemen,130
+RUS,Russia,3695
+CHN,China,1070
+HKG,Hong Kong ,51
+JPN,Japan,7130
+KOR,South Korea,1802
+MAC,Macao ,3
+MNG,Mongolia,16
+PRK,North Korea,25
+TWN,Taiwan,397
+AFG,Afghanistan,31
+BGD,Bangladesh,141
+BTN,Bhutan,2
+IND,India,1800
+IRN,Iran,129
+LKA,Sri Lanka,31
+MDV,Maldives,8
+NPL,Nepal,16
+PAK,Pakistan,311
+KAZ,Kazakhstan,251
+KGZ,Kyrgyzstan,71
+TJK,Tajikistan,51
+TKM,Turkmenistan,51
+UZB,Uzbekistan,151
+BRN,Brunei,30
+IDN,Indonesia,3584
+IOA,Indian Ocean Territories,
+KHM,Cambodia,28
+LAO,Laos,150
+MMR,Myanmar,250
+MYS,Malaysia,393
+PGA,Spratly Islands,
+PHL,Philippines,2175
+PLW,Palau,1
+SGP,Singapore,101
+THA,Thailand,1052
+TLS,East Timor,2
+VNM,Vietnam,1583
+ASM,American Samoa,5
+COK,Cook Islands,
+CSI,Coral Sea Islands,
+FJI,Fiji,7
+FSM,Federated States of Micronesia,
+GUM,Guam,3
+KIR,Kiribati,
+MHL,Marshall Islands,
+MNP,Northern Mariana Islands,
+NCL,New Caledonia,2
+NFK,Norfolk Island,
+NIU,Niue,
+NRU,Nauru,
+PCN,Pitcairn Islands,
+PNG,Papua New Guinea,2
+PYF,French Polynesia,7
+SLB,Solomon Islands,
+TON,Tonga,
+TUV,Tuvalu,
+UMI,United States Minor Outlying Islands,
+VUT,Vanuatu,
+WLF,Wallis and Futuna,
+WSM,Samoa,1
+AUS,Australia,1407
+NZL,New Zealand,243
+BLZ,Belize,4
+CLP,Clipperton Island,
+CRI,Costa Rica,270
+GTM,Guatemala,340
+HND,Honduras,460
+MEX,Mexico,2354
+NIC,Nicaragua,200
+PAN,Panama,67
+SLV,El Salvador,266
+ABW,Aruba,1
+AIA,Anguilla,
+ATG,Antigua and Barbuda,1
+BHS,The Bahamas,11
+BLM,Saint Barthelemy,
+BRB,Barbados,11
+CUB,Cuba,220
+CUW,Curaçao,
+CYM,Cayman Islands,3
+DMA,Dominica,2
+DOM,Dominican Republic,378
+FRA,Martinique,7
+FRA,Guadeloupe,9
+GRD,Grenada,2
+HTI,Haiti,31
+JAM,Jamaica,9
+KNA,Saint Kitts and Nevis,
+LCA,Saint Lucia,
+MAF,Saint Martin,
+MSR,Montserrat,
+NLD,Caribbean Netherlands,
+PRI,Puerto Rico,131
+SXM,Sint Maarten,
+TCA,Turks and Caicos Islands,
+TTO,Trinidad and Tobago,5
+VCT,Saint Vincent and the Grenadines,
+VGB,British Virgin Islands,3
+VIR,United States Virgin Islands,3
+BMU,Bermuda,12
+CAN,Canada,3574
+SPM,Saint Pierre and Miquelon,
+USA,United States ,22044
+ARG,Argentina,587
+BOL,Bolivia,60
+BRA,Brazil,19720
+CHL,Chile,253
+COL,Colombia,1413
+ECU,Ecuador,150
+FLK,Falkland Islands,1
+GUF,French Guiana,6
+GUY,Guyana,17
+PER,Peru,250
+PRY,Paraguay,20
+SGS,South Georgia and South Sandwich Islands,
+SUR,Suriname,7
+URY,Uruguay,63
+VEN,Venezuela,1650

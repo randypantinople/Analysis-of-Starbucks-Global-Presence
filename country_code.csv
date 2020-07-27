@@ -24,10 +24,10 @@ Asia,"Bhutan, Kingdom of",BT
 South America,"Bolivia, Republic of",BO
 Europe,Bosnia and Herzegovina,BA
 Africa,"Botswana, Republic of",BW
-Antarctica,Bouvet Island (Bouvetoya),BV
+Antarctica,Bouvet Island ,BV
 South America,"Brazil, Federative Republic of",BR
 North America,Belize,BZ
-Asia,British Indian Ocean Territory (Chagos Archipelago),IO
+Asia,British Indian Ocean Territory ,IO
 Oceania,Solomon Islands,SB
 North America,British Virgin Islands,VG
 Asia,Brunei Darussalam,BN
@@ -71,7 +71,7 @@ Africa,"Ethiopia, Federal Democratic Republic of",ET
 Africa,"Eritrea, State of",ER
 Europe,"Estonia, Republic of",EE
 Europe,Faroe Islands,FO
-South America,Falkland Islands (Malvinas),FK
+South America,Falkland Islands ,FK
 Antarctica,South Georgia and the South Sandwich Islands,GS
 Oceania,"Fiji, Republic of the Fiji Islands",FJ
 Europe,"Finland, Republic of",FI
@@ -100,7 +100,7 @@ Africa,"Guinea, Republic of",GN
 South America,"Guyana, Co-operative Republic of",GY
 North America,"Haiti, Republic of",HT
 Antarctica,Heard Island and McDonald Islands,HM
-Europe,Holy See (Vatican City State),VA
+Europe,Holy See ,VA
 North America,"Honduras, Republic of",HN
 Asia,"Hong Kong, Special Administrative Region of China",HK
 Europe,"Hungary, Republic of",HU
@@ -119,8 +119,7 @@ Europe,"Kazakhstan, Republic of",KZ
 Asia,"Kazakhstan, Republic of",KZ
 Asia,"Jordan, Hashemite Kingdom of",JO
 Africa,"Kenya, Republic of",KE
-Asia,"Korea, Democratic People's Republic of",KP
-Asia,"Korea, Republic of",KR
+Asia,Korea,KR
 Asia,"Kuwait, State of",KW
 Asia,Kyrgyz Republic,KG
 Asia,Lao People's Democratic Republic,LA
@@ -210,7 +209,7 @@ Africa,"Seychelles, Republic of",SC
 Africa,"Sierra Leone, Republic of",SL
 Asia,"Singapore, Republic of",SG
 Europe,Slovakia (Slovak Republic),SK
-Asia,"Vietnam, Socialist Republic of",VN
+Asia,Vietnam,VN
 Europe,"Slovenia, Republic of",SI
 Africa,"Somalia, Somali Republic",SO
 Africa,"South Africa, Republic of",ZA
@@ -252,7 +251,7 @@ North America,United States Virgin Islands,VI
 Africa,Burkina Faso,BF
 South America,"Uruguay, Eastern Republic of",UY
 Asia,"Uzbekistan, Republic of",UZ
-South America,"Venezuela, Bolivarian Republic of",VE
+South America,Venezuela,VE
 Oceania,Wallis and Futuna,WF
 Oceania,"Samoa, Independent State of",WS
 Asia,Yemen,YE
